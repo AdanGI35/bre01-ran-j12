@@ -1,2 +1,3 @@
 # bre01-ran-j12
-petit jeu
+
+# projet du jeu
